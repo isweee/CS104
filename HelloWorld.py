@@ -28,10 +28,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> # This is Version 1 of my hello world program
 >>> print("Hello my name is Isuhi")
 Hello my name is Isuhi
+>>> # This is Version 2 of my hello world program
+>>> print("Hello my name is Isuhi Acosta")
+Hello my name is Isuhi Acosta
 >>> 
-
-
-
 
 
 
